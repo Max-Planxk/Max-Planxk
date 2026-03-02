@@ -1,4 +1,8 @@
 <p align="center">
+  <img src=""https://github.com/user-attachments/assets/6b98d403-50f4-4eb5-9f80-293c9d3cb93e" width="400" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Max-Planxk/Max-Planxk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
@@ -71,7 +75,9 @@ I've participated in several hackathons and even though I was still finding my f
 - 🔐 **DataHaven AI (Most Recent)** — A privacy-focused crypto tool that hides personal crypto details and prevents scenarios like the FTX collapse of 2022
 
 ---
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73b8e325-cbf7-4772-a70d-8bd0b0fb106f" width="400" />
+</p>
 
 
 ## 🚀 What's Next?
