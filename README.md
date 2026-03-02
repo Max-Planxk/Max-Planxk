@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Max-Planxk&theme=tokyo-night" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Max-Planxk/Max-Planxk/output/github-contribution-grid-snake-dark.svg" />
