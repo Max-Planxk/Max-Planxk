@@ -10,7 +10,7 @@
 <h1 align="center">Hi there, I'm Manas Kumar Mishra 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6b98d403-50f4-4eb5-9f80-293c9d3cb93e" width="400" />
+  <img src="https://github.com/user-attachments/assets/3af1dc00-dbed-42da-8cd6-b0d212c7200f" />
 </p>
 
 <p align="center">
