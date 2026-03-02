@@ -79,6 +79,7 @@ I've participated in several hackathons and even though I was still finding my f
 ---
 <p align="center">
   <img src="https://github.com/user-attachments/assets/73b8e325-cbf7-4772-a70d-8bd0b0fb106f" width="400" />
+  <img src="https://github.com/user-attachments/assets/874ecc1b-ec55-4ac2-8d62-38108526f6fe" width="400" />
 </p>
 
 
