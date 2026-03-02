@@ -65,15 +65,7 @@ I've participated in several hackathons and even though I was still finding my f
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manaskumarmishra&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manaskumarmishra&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🚀 What's Next?
 
