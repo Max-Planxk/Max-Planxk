@@ -16,7 +16,9 @@
 <p align="center">
   <em>CSE (AI/ML) Student • Curiosity to Code • Building One Step at a Time</em>
 </p>
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer+in+Progress;AI%2FML+Enthusiast;Hackathon+Explorer;Always+Learning..." alt="Typing SVG" />
 </p>
