@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6b98d403-50f4-4eb5-9f80-293c9d3cb93e" width="400" />
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Max-Planxk/Max-Planxk/output/github-contribution-grid-snake-dark.svg" />
@@ -10,6 +8,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWs1bGh1eW1zOW50cWMyZ2o2MGlya29lNHJqbjYzazRtZW03NTZweiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" width="300" />
 </p>
 <h1 align="center">Hi there, I'm Manas Kumar Mishra 👋</h1>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6b98d403-50f4-4eb5-9f80-293c9d3cb93e" width="400" />
+</p>
 
 <p align="center">
   <em>CSE (AI/ML) Student • Curiosity to Code • Building One Step at a Time</em>
