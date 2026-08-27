@@ -28,11 +28,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing **B.Tech in CSE (AI/ML)**
-- 🌱 Currently learning **Web Development** — HTML → CSS → Tailwind → JavaScript → Databases
-- 🔭 Future plan: Dive deep into **AI/ML with Python** in my 2nd year
-- 🧪 Exploring **API Testing with Postman** soon
-- 📚 Love reading books & listening to music
-- ⚔️ Also grinding **DSA in C** and **OOP concepts in C++** alongside web dev
+- ⚔️ Also grinding **DSA in JAVA and **OOP concepts in JAVA alongside web dev
 - 💡 Believe in learning by doing — even if it's vibe-coded!
 
 ---
@@ -54,7 +50,6 @@
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -89,13 +84,6 @@ I've participated in several hackathons and even though I was still finding my f
 </p>
 
 
-## 🚀 What's Next?
-
-- [ ] Complete HTML → CSS → Tailwind → JS roadmap
-- [ ] Learn Database basics
-- [ ] Start Postman API Testing
-- [ ] Begin AI/ML journey with Python in Year 2
-- [ ] Build impressive full-stack projects
 
 ---
 
