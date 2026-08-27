@@ -9,9 +9,6 @@
 </p>
 <h1 align="center">Hi there, I'm Manas Kumar Mishra 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3af1dc00-dbed-42da-8cd6-b0d212c7200f" />
-</p>
 
 <p align="center">
   <em>CSE (AI/ML) Student • Curiosity to Code • Building One Step at a Time</em>
